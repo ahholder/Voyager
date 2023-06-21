@@ -1,0 +1,15 @@
+C:\Users\ahold\repos\All_LinkedIn_Showcase\AH_LinkedInShowcase2\AH_LinkedInShowcase2\bin\Debug\net6.0\AH_LinkedInShowcase2.exe
+C:\Users\ahold\repos\All_LinkedIn_Showcase\AH_LinkedInShowcase2\AH_LinkedInShowcase2\bin\Debug\net6.0\AH_LinkedInShowcase2.deps.json
+C:\Users\ahold\repos\All_LinkedIn_Showcase\AH_LinkedInShowcase2\AH_LinkedInShowcase2\bin\Debug\net6.0\AH_LinkedInShowcase2.runtimeconfig.json
+C:\Users\ahold\repos\All_LinkedIn_Showcase\AH_LinkedInShowcase2\AH_LinkedInShowcase2\bin\Debug\net6.0\AH_LinkedInShowcase2.dll
+C:\Users\ahold\repos\All_LinkedIn_Showcase\AH_LinkedInShowcase2\AH_LinkedInShowcase2\bin\Debug\net6.0\AH_LinkedInShowcase2.pdb
+C:\Users\ahold\repos\All_LinkedIn_Showcase\AH_LinkedInShowcase2\AH_LinkedInShowcase2\obj\Debug\net6.0\AH_LinkedInShowcase2.csproj.AssemblyReference.cache
+C:\Users\ahold\repos\All_LinkedIn_Showcase\AH_LinkedInShowcase2\AH_LinkedInShowcase2\obj\Debug\net6.0\AH_LinkedInShowcase2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahold\repos\All_LinkedIn_Showcase\AH_LinkedInShowcase2\AH_LinkedInShowcase2\obj\Debug\net6.0\AH_LinkedInShowcase2.AssemblyInfoInputs.cache
+C:\Users\ahold\repos\All_LinkedIn_Showcase\AH_LinkedInShowcase2\AH_LinkedInShowcase2\obj\Debug\net6.0\AH_LinkedInShowcase2.AssemblyInfo.cs
+C:\Users\ahold\repos\All_LinkedIn_Showcase\AH_LinkedInShowcase2\AH_LinkedInShowcase2\obj\Debug\net6.0\AH_LinkedInShowcase2.csproj.CoreCompileInputs.cache
+C:\Users\ahold\repos\All_LinkedIn_Showcase\AH_LinkedInShowcase2\AH_LinkedInShowcase2\obj\Debug\net6.0\AH_LinkedInShowcase2.dll
+C:\Users\ahold\repos\All_LinkedIn_Showcase\AH_LinkedInShowcase2\AH_LinkedInShowcase2\obj\Debug\net6.0\refint\AH_LinkedInShowcase2.dll
+C:\Users\ahold\repos\All_LinkedIn_Showcase\AH_LinkedInShowcase2\AH_LinkedInShowcase2\obj\Debug\net6.0\AH_LinkedInShowcase2.pdb
+C:\Users\ahold\repos\All_LinkedIn_Showcase\AH_LinkedInShowcase2\AH_LinkedInShowcase2\obj\Debug\net6.0\AH_LinkedInShowcase2.genruntimeconfig.cache
+C:\Users\ahold\repos\All_LinkedIn_Showcase\AH_LinkedInShowcase2\AH_LinkedInShowcase2\obj\Debug\net6.0\ref\AH_LinkedInShowcase2.dll
